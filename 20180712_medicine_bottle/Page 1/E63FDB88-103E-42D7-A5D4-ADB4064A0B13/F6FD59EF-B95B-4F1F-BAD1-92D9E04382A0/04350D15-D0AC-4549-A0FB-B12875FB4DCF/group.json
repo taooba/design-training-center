@@ -1,0 +1,84 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "04350D15-D0AC-4549-A0FB-B12875FB4DCF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 120,
+    "width": 70,
+    "x": 65,
+    "y": 60
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "BAFC0A6A-3453-40D0-A546-9964A3938860"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "28D32E51-0115-4000-AC07-4821FAC9BE1D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "51AD67BF-BB0E-4F8A-8AC2-2BE43E25F248"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9F1B7FE6-5679-4148-A139-47C51249583F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "81EDB9CE-9315-4BCF-A946-D0E35BFBFA8F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8023454B-5CDE-410C-AFF7-22E4316CF711"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "46EDA3EF-1BD2-4C09-AB42-E6FFC9602087"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C2A26E4F-1A15-48E2-A8EE-9FD48DF028DE"
+    },
+    {
+      "class": "text",
+      "id": "4FF2F9CB-53B6-490F-A7B3-FF49738CCB2B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4FDE4B79-1FF7-4870-9638-2E1C03E1CDA9"
+    }
+  ],
+  "name": "药瓶标签",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
