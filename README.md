@@ -4,7 +4,17 @@
 
 ## 20180711-时钟图标
 
-![general](images/时钟图标.png)
+![general](images/20180711-时钟图标.png)
 
 **临摹来源:**  [《用sketch制作一个时钟图标》](http://www.ui.cn/detail/102863.html)
+
+**站酷链接:** https://www.zcool.com.cn/work/ZMjg5NTM0MjA.html
+
+
+
+## 20180712-药瓶图案
+
+![](images/20180712-药瓶图案.png)
+
+**临摹来源:** [《来绘制一个简单有趣的药瓶【sketch】》](http://www.xueui.cn/tutorials/sketch-interesting-bottle.html)
 
