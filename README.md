@@ -6,9 +6,9 @@
 
 ![时钟图标](images/20180711-时钟图标.png)
 
-**临摹来源：**[《用sketch制作一个时钟图标》](http://www.ui.cn/detail/102863.html)
+**临摹来源：** [《用sketch制作一个时钟图标》](http://www.ui.cn/detail/102863.html)
 
-**站酷链接：**https://www.zcool.com.cn/work/ZMjg5NTM0MjA.html
+**站酷链接：** https://www.zcool.com.cn/work/ZMjg5NTM0MjA.html
 
 
 
@@ -16,9 +16,9 @@
 
 ![药瓶图案](images/20180712-药瓶图案.png)
 
-**临摹来源：**[《来绘制一个简单有趣的药瓶【sketch】》](http://www.xueui.cn/tutorials/sketch-interesting-bottle.html)
+**临摹来源：** [《来绘制一个简单有趣的药瓶【sketch】》](http://www.xueui.cn/tutorials/sketch-interesting-bottle.html)
 
-**站酷链接：**https://www.zcool.com.cn/work/ZMjg5NzY1MzY.html
+**站酷链接：** https://www.zcool.com.cn/work/ZMjg5NzY1MzY.html
 
 
 
@@ -26,8 +26,8 @@
 
 ![](images/20180713-小鸟图标.png)
 
-**临摹来源：**[《酷九合金社Sketch教程系列-小鸟图标》](https://www.zcool.com.cn/article/ZODU0MzY.html)
-**站酷链接：**https://www.zcool.com.cn/work/ZMjg5OTkwMDQ.html
+**临摹来源：** [《酷九合金社Sketch教程系列-小鸟图标》](https://www.zcool.com.cn/article/ZODU0MzY.html)
+**站酷链接：** https://www.zcool.com.cn/work/ZMjg5OTkwMDQ.html
 
 
 
@@ -36,5 +36,4 @@
 
 ![水滴图标](images/20180720-水滴图标.png)
 
-**临摹来源：**[《使用Sketch 3设计水滴图标》](http://www.ui.cn/detail/34282.html)
-
+**临摹来源：** [《使用Sketch 3设计水滴图标》](http://www.ui.cn/detail/34282.html)
