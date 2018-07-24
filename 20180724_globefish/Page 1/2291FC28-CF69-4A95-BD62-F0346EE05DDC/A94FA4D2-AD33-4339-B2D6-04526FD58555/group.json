@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "A94FA4D2-AD33-4339-B2D6-04526FD58555",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 135,
+    "width": 367,
+    "x": 225,
+    "y": 197
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1FF99B28-BCCB-41A6-AEF8-9F3E76888BB2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A148432D-F8D3-4D89-8DF2-A80A3A48ADF0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "67E065FE-14DE-4585-97F1-9AB876F0408D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1DDA1F48-1FEE-42E7-86E3-B14A6B2BCDAA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1868B3B2-CFF6-4051-BBCE-1C176769BFA1"
+    }
+  ],
+  "name": "面部斑点",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
