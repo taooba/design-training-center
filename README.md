@@ -38,3 +38,12 @@
 ![水滴图标](images/20180720-水滴图标.png)
 
 **临摹来源：** [《使用Sketch 3设计水滴图标》](http://www.ui.cn/detail/34282.html)
+
+**站酷链接：** https://www.zcool.com.cn/work/ZMjkxMzE0NjA.html
+
+
+
+![河豚图案](images/20180724-河豚图案.png)
+
+**临摹来源：** [《Sketch原创卡通形象——愤怒的河豚》](http://www.ui.cn/detail/191138.html)
+
