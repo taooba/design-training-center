@@ -54,3 +54,14 @@
 ![磁带图标](images/20180725-磁带图标.png)
 
 **临摹来源：** [简约磁带图标教程](http://www.xueui.cn/tutorials/other-tutorials/cidai.html)
+
+**站酷链接：** https://www.zcool.com.cn/work/ZMjkyMTYxMDQ.html
+
+
+
+## 20180726-机器人瓦力
+
+![机器人瓦力](images/20180726-瓦力.png)
+
+**临摹来源：** [教程-瓦力](http://www.xueui.cn/tutorials/walli_course.html)
+
