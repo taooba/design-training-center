@@ -74,3 +74,13 @@
 ![渐变的MBE](images/20180727-渐变的MBE.png)
 
 **临摹来源：** [插画教程——发光的“球球“](http://www.ui.cn/detail/212925.html)
+
+**站酷链接：** https://www.zcool.com.cn/work/ZMjkyNjk2OTI.html
+
+
+
+# 20180728-Switch游戏机
+
+![Switch 游戏机](images/20180728-Switch游戏机.png)
+
+**临摹来源：** [Switch教程](http://www.xueui.cn/tutorials/switch180111.html)
