@@ -84,3 +84,13 @@
 ![Switch 游戏机](images/20180728-Switch游戏机.png)
 
 **临摹来源：** [Switch教程](http://www.xueui.cn/tutorials/switch180111.html)
+
+**站酷链接：** https://www.zcool.com.cn/work/ZMjkyODY4ODQ.html
+
+
+
+# 20180729-自行车
+
+![自行车](images/20180729-自行车.png)
+
+**临摹来源：** [绘制一辆卡通风格的自行车(AI教程）](http://www.xueui.cn/tutorials/illustrator-tutorials/draw-a-cartoon-style-bike-ai-tutorial.html)
