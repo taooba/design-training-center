@@ -94,3 +94,14 @@
 ![自行车](images/20180729-自行车.png)
 
 **临摹来源：** [绘制一辆卡通风格的自行车(AI教程）](http://www.xueui.cn/tutorials/illustrator-tutorials/draw-a-cartoon-style-bike-ai-tutorial.html)
+
+**站酷链接：** https://www.zcool.com.cn/work/ZMjkyOTk2MDA.html
+
+
+
+# 20180730-太空流星
+
+![太空流星](images/20180730-太空流星.png)
+
+**临摹来源：** [用AI绘制扁平化太空流星风海报](http://www.xueui.cn/tutorials/using-ai-to-draw-flat-space-meteor-wind-posters.html)
+
