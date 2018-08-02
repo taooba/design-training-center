@@ -127,3 +127,12 @@
 
 **临摹来源：** [酷九合金社Sketch教程系列-IOS图标—上](http://www.zcool.com.cn/article/ZODQ1ODA=.html) & [酷九合金社Sketch教程系列-IOS图标—下](https://www.zcool.com.cn/article/ZODQ1ODg=.html)
 
+**站酷链接：** https://www.zcool.com.cn/work/ZMjkzNjA3NzY.html
+
+
+
+## 20180802-外星飞碟
+
+![外星飞碟](images/20180802-外星飞碟.png)
+
+**临摹来源：** [AI绘制一个可爱的扁平化UFO](http://www.xueui.cn/school/aidrawufo-homeworks-20170816.html)
