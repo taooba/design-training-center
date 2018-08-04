@@ -146,3 +146,13 @@
 ![黑色转钮](images/20180803-黑色转钮.png)
 
 **临摹来源：** [sketch打造knob开关](https://www.zcool.com.cn/work/ZMTQ0ODk1MDg=.html)
+
+**站酷链接：** https://www.zcool.com.cn/work/ZMjk0MDIxOTI.html
+
+
+
+## 20180804-山坡村庄
+
+![20180804-山坡村庄](images/20180804-山坡村庄.png)
+
+**临摹来源：** [插画小练习-草原教程](http://www.xueui.cn/tutorials/grass-0524.html)
