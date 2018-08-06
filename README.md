@@ -156,3 +156,13 @@
 ![20180804-山坡村庄](images/20180804-山坡村庄.png)
 
 **临摹来源：** [插画小练习-草原教程](http://www.xueui.cn/tutorials/grass-0524.html)
+
+**站酷链接：** https://www.zcool.com.cn/work/ZMjk0Mjc0Mjg.html
+
+
+
+## 20180806-小狗表情动效
+
+![小狗表情动效](images/20180806-小狗表情动效.gif)
+
+**临摹来源：** [Principle制作可交互小狗动画](http://www.ui.cn/detail/365119.html)
