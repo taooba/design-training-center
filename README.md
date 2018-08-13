@@ -190,3 +190,14 @@
 ## 20180810-类探探滑动卡片动效
 
 ![20180810-类探探滑动卡片动效](images/20180810-类探探滑动卡片动效.gif)
+
+**站酷链接：** https://www.zcool.com.cn/work/ZMjk1NDQ4NjA.html
+
+
+
+## 20180813-卡片滑动视差动效
+
+![20180813-卡片滑动视差动效](images/20180813-卡片滑动视差动效.gif)
+
+**临摹来源：** [APP 动效设计-卡片翻页](https://v.youku.com/v_show/id_XMzU1MTgxODg2OA==.html?spm=a1z3jc.11711052.0.0&isextonly=1)
+
